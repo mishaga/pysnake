@@ -44,4 +44,4 @@ Project uses the `arcade` module
 
 ## Game interface
 
-<img src="https://img.mishaga.com/git/1304x1480/8d28ec8d7b6548adb8a767dd181ab288.png" alt="game interface" style="max-width: 652px" />
+<img src="https://img.mishaga.com/git/1304x1480/8d28ec8d7b6548adb8a767dd181ab288.png" alt="game interface" width="652" />
